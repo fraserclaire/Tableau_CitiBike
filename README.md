@@ -1,5 +1,3 @@
-# Tableau_CitiBike
-Module 18 - Challenge
 # Module 18 Challenge
 
 ## Goal: aggregate data in Citi Bike Trip History Logs to find two unexpected phenomena. Generate regular reports for city officials about the program.
@@ -18,7 +16,7 @@ Module 18 - Challenge
 		- "2023-citibike-tripdata.zip" , "2022-citibike-tripdata.zip"
 	
 2. Extracted .csv files from .zip folder to merge in Tableau
-	- "202201-citibike-tripdata_1.csv", "202201-citibike-tripdata_#.csv", "202203-citibike-tripdata_#.csv"
+	- "202201-citibike-tripdata_#.csv", "202201-citibike-tripdata_#.csv", "202203-citibike-tripdata_#.csv"
 	
 3. Opened the files in Tableau
 	- Opened the first file, then created a Union to merge all files	
