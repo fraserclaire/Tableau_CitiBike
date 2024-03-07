@@ -11,7 +11,7 @@
 
 ## Processing steps:
 
-1. Download data files from [Citi Bike Trip Data]("https://citibikenyc.com/system-data")
+1. Download data files from [Citi Bike Trip Data](https://citibikenyc.com/system-data)
 	- JC station data files excluded, only downloaded data stored within the following:
 		- "2023-citibike-tripdata.zip" , "2022-citibike-tripdata.zip"
 	
