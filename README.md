@@ -23,11 +23,14 @@
 	
 ## Tableau visualizations:
 
-### Where are most bike rides starting at different times of the day? - Top Starting Station by Time 
-https://public.tableau.com/app/profile/claire.fraser/viz/TopStartingStationbyTime/v2#1
+### Citi Bike Stations - Membership and Utilization
+https://public.tableau.com/app/profile/claire.fraser/viz/Wherearemostbikeridesstartingatdifferenttimesoftheday/v2
 
-### What are the most popular ride starting stations? - Top 10 Ride Start Stations
-https://public.tableau.com/app/profile/claire.fraser/viz/OverallTopStartingStation/Overall-TopStartingStations-Jan2023?publish=yes
+### Story - Top Start Ride stations
+https://public.tableau.com/app/profile/claire.fraser/viz/Story-TopStartRideStations/Thestationlocationradiusthickens___
+
+### Top 10 Ride Starting Stations
+https://public.tableau.com/app/profile/claire.fraser/viz/OverallTopStartingStation/Overall-TopStartingStations-Jan2023
 	
 ## Summary:
 
