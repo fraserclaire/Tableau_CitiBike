@@ -31,6 +31,8 @@ https://public.tableau.com/app/profile/claire.fraser/viz/OverallTopStartingStati
 	
 ## Summary:
 
+- Most rides begin Southwest of Central park, spanning toward the financial district of New York.
+- Around Times Square, there are a higher number of casual vs member riders compared to in the Union Square, East Village regions. This may be due to fewer local people in Times Square and around the Empire State building, and more tourists who do not sign up for membership.
 - In general, there are more stations with rides starting in March than January or February in both 2022 and 2023. This is likely due to the weather conditions being easier to ride a bike in during March, compared to January and February.
 - Peak ride start times are ~8AM and ~6PM, which is likely due to the transit to and from work.
 
